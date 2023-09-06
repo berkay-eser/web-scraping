@@ -1,0 +1,214 @@
+phone_name,brand,os,inches,resolution,battery,battery_type,ram,announcement_date,weight,video,internal,price
+Oppo A58 4G,Oppo,Android 13,"6.72""",1080x2400 pixels,5000,Li-Po,6GB RAM,"2023, July 26",192 g (6.77 oz),1080p@30fps,128GB 6GB RAM,About 150 EUR
+Oppo K11,Oppo,Android 13,"6.7""",1080x2400 pixels,5000,Li-Po,8/12GB RAM,"2023, July 25",184 g (6.49 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM","€ 759.00 / ₹ 39,999"
+Oppo Reno10 Pro,Oppo,Android 13,"6.7""",1080x2412 pixels,4600,Li-Po,12GB RAM,"2023, July 08",185 g (6.53 oz),"4K@30fps, 1080p@30/60/120/480fps, gyro-EIS, HDR, OIS",256GB 12GB RAM,"€ 479.00 / $ 625.00 / ₹ 32,990"
+Oppo Reno10,Oppo,Android 13,"6.7""",1080x2412 pixels,5000,Li-Po,8GB RAM,"2023, July 08",185 g (6.53 oz),"4K@30fps, 1080p@30/60/120/480fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 200 EUR
+Oppo A78 4G,Oppo,Android 13,"6.43""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2023, July 10",180 g (6.35 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM",About 250 EUR
+Oppo K11x,Oppo,Android 13,"6.72""",1080x2400 pixels,5000,Li-Po,8/12GB RAM,"2023, May 25",195 g (6.88 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",$ 899.00
+Oppo Reno10 Pro+,Oppo,Android 13,"6.74""",1240x2772 pixels,4700,Li-Po,12/16GB RAM,"2023, May 24",194 g (6.84 oz),"4K@30/60fps, 1080p@30/60/120/240/480fps, gyro-EIS, OIS, HDR","256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM",About 520 EUR
+Oppo Reno10 Pro (China),Oppo,Android 13,"6.74""",1240x2772 pixels,4600,Li-Po,16GB RAM,"2023, May 24",186 g (6.56 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS, HDR","256GB 16GB RAM, 512GB 16GB RAM",About 330 EUR
+Oppo Reno10 (China),Oppo,Android 13,"6.7""",1080x2412 pixels,4600,Li-Po,8/12GB RAM,"2023, May 24",180 g (6.35 oz),"4K@30fps, 1080p@30/60fps, gyro-EIS","256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",About 270 EUR
+Oppo F23,Oppo,Android 13,"6.72""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2023, May 15",192 g (6.77 oz),1080p@30fps,256GB 8GB RAM,About 290 EUR
+Oppo A98,Oppo,Android 13,"6.72""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2023, May 09",192 g (6.77 oz),1080p@30fps,256GB 8GB RAM,About 270 EUR
+Oppo A1,Oppo,Android 13,"6.72""",1080x2400 pixels,5000,Li-Po,8/12GB RAM,"2023, April 04",191 g or 193 g (6.74 oz),1080p@30fps,"256GB 8GB RAM, 256GB 12GB RAM",About 180 EUR
+Oppo A1x,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,6/8GB RAM,"2023, March 31",186 g (6.56 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM",About 820 EUR
+Oppo Find X6 Pro,Oppo,Android 13,"6.82""",1440x3168 pixels,5000,Li-Po,12/16GB RAM,"2023, March 21",216 g or 218 g (7.62 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision","256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM",$ 759.00
+Oppo Find X6,Oppo,Android 13,"6.74""",1240x2772 pixels,4800,Li-Po,12/16GB RAM,"2023, March 21",207 g (7.30 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video","256GB 12GB RAM, 512GB 16GB RAM",€ 299.99
+Oppo Reno8 T,Oppo,Android 13,"6.43""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2023, February 02",180 g or 183 g (6.35 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM",About 340 EUR
+Oppo Reno8 T 5G,Oppo,Android 13,"6.7""",1080x2412 pixels,4800,Li-Po,8GB RAM,"2023, February 01",171 g (6.03 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM",About 230 EUR
+Oppo A78,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,4/8GB RAM,"2023, January 07",188 g (6.63 oz),1080p@30fps,"128GB 4GB RAM, 128GB 8GB RAM",About 150 EUR
+Oppo A56s,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,8GB RAM,"2023, January 05",186 g (6.56 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM","$ 1,079.99"
+Oppo Find N2 Flip,Oppo,Android 13,"6.8""",1080x2520 pixels,4300,Li-Po,8-16GB RAM,"2022, December 15",191 g (6.74 oz),"4K@30fps, 1080p@30/60/240fps","256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",About 1100 EUR
+Oppo Find N2,Oppo,Android 13,"7.1""",1792x1920 pixels,4520,Li-Po,12/16GB RAM,"2022, December 15",233 g or 237 g (8.22 oz),"4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, HDR","256GB 12GB RAM, 512GB 16GB RAM",About 180 EUR
+Oppo A58x,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,6/8GB RAM,"2022, December 15",186 g (6.56 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM",About 740 EUR
+Oppo Reno9 Pro+,Oppo,Android 13,"6.7""",1080x2412 pixels,4700,Li-Po,16GB RAM,"2022, November 24",192 g (6.77 oz),"4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, HDR","256GB 16GB RAM, 512GB 16GB RAM",About 470 EUR
+Oppo Reno9 Pro,Oppo,Android 13,"6.7""",1080x2412 pixels,4500,Li-Po,16GB RAM,"2022, November 24",174 g (6.14 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS, HDR","256GB 16GB RAM, 512GB 16GB RAM",About 600 EUR
+Oppo Reno9,Oppo,Android 13,"6.7""",1080x2412 pixels,4500,Li-Po,8/12GB RAM,"2022, November 24",174 g (6.14 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",About 260 EUR
+Oppo A1 Pro,Oppo,Android 13,"6.7""",1080x2412 pixels,4800,Li-Po,8/12GB RAM,"2022, November 16",171 g (6.03 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 230 EUR
+Oppo A58,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,6/8GB RAM,"2022, November 08",188 g (6.63 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 130 EUR
+Oppo A17k,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,3GB RAM,"2022, October 13",189 g (6.67 oz),1080p@30fps,64GB 3GB RAM,About 220 EUR
+Oppo A77s,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,8GB RAM,"2022, October 05",187 g / 190 g (6.60 oz),1080p@30fps,128GB 8GB RAM,"€ 149.76 / $ 309.00 / £ 131.40 / ₹ 11,999"
+Oppo A17,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,4GB RAM,"2022, September 26",189 g (6.67 oz),1080p@30fps,64GB 4GB RAM,About 210 EUR
+Oppo K10x,Oppo,Android 12,"6.59""",1080x2412 pixels,5000,Li-Po,6-12GB RAM,"2022, September 16",195 g (6.88 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 180 EUR
+Oppo A57e,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,4GB RAM,"2022, August 31",187 g (6.60 oz),1080p@30fps,64GB 4GB RAM,About 330 EUR
+Oppo A57s,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,4GB RAM,"2022, August 31",187 g (6.60 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM",About 350 EUR
+Oppo Reno8 4G,Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, August 17",182 g (6.42 oz),"1080p@30fps, gyro-EIS",256GB 8GB RAM,About 200 EUR
+Oppo Reno8 Z,Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, August 04",181 g (6.38 oz),"1080p@30fps, 720p@30/120fps, EIS","128GB 8GB RAM, 256GB 8GB RAM","€ 999.00 / $ 574.91 / £ 649.99 / ₹ 39,990"
+Oppo A77 4G,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,4GB RAM,"2022, August 03",187 g / 189 g (6.60 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM","€ 395.00 / $ 499.00 / £ 376.89 / ₹ 26,999"
+Oppo Reno8 Pro,Oppo,Android 12,"6.7""",1080x2412 pixels,4500,Li-Po,8/12GB RAM,"2022, July 18",183 g (6.46 oz),"4K@30fps, 1080p@30/60/120/240fps, 720p@960fps, gyro-EIS","256GB 8GB RAM, 256GB 12GB RAM",About 310 EUR
+Oppo Reno8,Oppo,Android 12,"6.4""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2022, July 18",179 g (6.31 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",€ 339.00 / £ 195.50
+Oppo A97,Oppo,Android 12,"6.6""",1080x2408 pixels,5000,Li-Po,12GB RAM,"2022, July 12",188 g (6.63 oz),1080p@30fps,256GB 12GB RAM,About 270 EUR
+Oppo Reno8 Lite,Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2022, June 4",173 g (6.10 oz),1080p@30fps,"128GB 8GB RAM, 128GB 12GB RAM",€ 169.99 / $ 182.49 / £ 154.99
+Oppo K10 5G,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,8GB RAM,"2022, June 01",190 g (6.70 oz),1080p@30fps,128GB 8GB RAM,"€ 209.99 / $ 170.00 / £ 232.68 / ₹ 15,500"
+Oppo A77,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,4/6GB RAM,"2022, June 01",190 g (6.70 oz),1080p@30fps,"64GB 4GB RAM, 128GB 6GB RAM",About 520 EUR
+Oppo A57 4G,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,3/4GB RAM,"2022, May 27",187 g (6.60 oz),1080p@30fps,"64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",About 420 EUR
+Oppo Reno8 Pro+,Oppo,Android 12,"6.7""",1080x2412 pixels,4500,Li-Po,8/12GB RAM,"2022, May 23",183 g (6.46 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","256GB 8GB RAM, 256GB 12GB RAM",About 350 EUR
+Oppo Reno8 Pro (China),Oppo,Android 12,"6.62""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2022, May 23",188 g (6.63 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 360 EUR
+Oppo Reno8 (China),Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2022, May 23",179 g (6.31 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 290 EUR
+Oppo K10 Pro,Oppo,Android 12,"6.62""",1080x2400 pixels,5000,Li-Po,8/12GB RAM,"2022, April 24",199 g (7.02 oz),"4K@30/60fps, 1080p@30/60/240fps","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 160 EUR
+Oppo K10 5G (China),Oppo,Android 12,"6.59""",1080x2412 pixels,5000,Li-Po,8/12GB RAM,"2022, April 24",205 g (7.23 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 200 EUR
+Oppo A55s,Oppo,Android 11,"6.5""",720x1600 pixels,5000,Li-Po,6/8GB RAM,"2022, April 18",186 g (6.56 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM",About 350 EUR
+Oppo A57,Oppo,Android 12,"6.56""",720x1612 pixels,5000,Li-Po,6/8GB RAM,"2022, April 14",186 g (6.56 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 330 EUR
+Oppo Reno7 Lite,Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, April 14",173 g (6.10 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM",About 280 EUR
+Oppo F21 Pro 5G,Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, April 12",173 g (6.10 oz),1080p@30fps,128GB 8GB RAM,$ 339.00 / £ 224.99
+Oppo F21 Pro,Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, April 12",175 g (6.17 oz),"1080p@30fps, gyro-EIS",128GB 8GB RAM,About 180 EUR
+Oppo Reno7,Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, March 29",175 g (6.17 oz),"1080p@30fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",€ 234.08 / $ 215.38 / £ 257.75
+Oppo K10,Oppo,Android 11,"6.59""",1080x2412 pixels,5000,Li-Po,6/8GB RAM,"2022, March 23",189 g (6.67 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM",About 120 EUR
+Oppo A96,Oppo,Android 11,"6.59""",1080x2412 pixels,5000,Li-Po,6/8GB RAM,"2022, March 16",191 g (6.74 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 350 EUR
+Oppo A16e,Oppo,Android 11,"6.52""",720x1600 pixels,4230,Li-Po,3/4GB RAM,"2022, March 21",175 g (6.17 oz),1080p@30fps,"32GB 3GB RAM, 64GB 4GB RAM",€ 699.99 / $ 589.00 / £ 699.00
+Oppo Reno7 Z 5G,Oppo,Android 12,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, March 02",173 g (6.10 oz),1080p@30fps,128GB 8GB RAM,€ 464.78 / $ 359.00 / £ 425.00
+Oppo Find X5 Pro,Oppo,Android 12,"6.7""",1440x3216 pixels,5000,Li-Po,8/12GB RAM,"2022, February 24",218 g or 195 g (6.88 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video","256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",€ 299.00 / $ 186.49 / £ 291.82
+Oppo Find X5,Oppo,Android 12,"6.55""",1080x2400 pixels,4800,Li-Po,8/12GB RAM,"2022, February 24",196 g (6.91 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",€ 174.99 / $ 345.00 / £ 149.99
+Oppo Find X5 Lite,Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, February 24",173 g (6.10 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS",256GB 8GB RAM,"₹ 27,999"
+Oppo A76,Oppo,Android 11,"6.56""",720x1612 pixels,5000,Li-Po,4/6GB RAM,"2022, February 17",189 g (6.67 oz),1080p@30fps,"128GB 4GB RAM, 128GB 6GB RAM",About 380 EUR
+Oppo Reno7 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2022, February 04",173 g (6.10 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 280 EUR
+Oppo Reno6 Lite,Oppo,Android 11,"6.43""",1080x2400 pixels,5000,Li-Po,6GB RAM,"2022, January 17",175 g (6.17 oz),1080p@30fps,128GB 6GB RAM,About 220 EUR
+Oppo A96 (China),Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2022, January 12",171 g (6.03 oz),"1080p@30fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 140 EUR
+Oppo A36,Oppo,Android 11,"6.56""",720x1612 pixels,5000,Li-Po,6/8GB RAM,"2022, January 10",185 g (6.53 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 190 EUR
+Oppo A11s,Oppo,Android 10,"6.5""",720x1600 pixels,5000,Li-Po,4/8GB RAM,"2021, December 27",186 g (6.56 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM",About 1070 EUR
+Oppo K9x,Oppo,Android 11,"6.49""",1080x2400 pixels,5000,Li-Po,6/8GB RAM,"2021, December 23",194 g (6.84 oz),"1080p@30fps, gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",$ 299.00
+Oppo Find N,Oppo,Android 11,"7.1""",1792x1920 pixels,4500,Li-Po,8/12GB RAM,"2021, December 15",275 g (9.70 oz),"4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, HDR","256GB 8GB RAM, 512GB 12GB RAM",About 380 EUR
+Oppo Reno7 Pro 5G,Oppo,Android 11,"6.55""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2021, November 25",180 g (6.35 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","256GB 8GB RAM, 256GB 12GB RAM",About 310 EUR
+Oppo Reno7 5G (China),Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2021, November 25",185 g (6.53 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 230 EUR
+Oppo Reno7 SE 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8GB RAM,"2021, November 25",171 g (6.03 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",$ 499.00 / £ 158.25
+Oppo A95,Oppo,Android 11,"6.43""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2021, November 16",175 g (6.17 oz),1080p@30fps,"128GB 8GB RAM, 256GB 8GB RAM",€ 192.82 / $ 405.00 / £ 239.99
+Oppo A16K,Oppo,Android 11,"6.52""",720x1600 pixels,4230,Li-Po,2-8GB RAM,"2021, November 08",175 g (6.17 oz),1080p@30fps,"32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM, 128GB 8GB RAM",About 220 EUR
+Oppo A54s,Oppo,Android 11,"6.52""",720x1600 pixels,5000,Li-Po,4/8GB RAM,"2021, October 27",190 g (6.70 oz),1080p@30fps,"128GB 4GB RAM, 128GB 8GB RAM","$ 469.00 / ₹ 14,990"
+Oppo A56 5G,Oppo,Android 11,"6.5""",720x1600 pixels,5000,Li-Po,4/6GB RAM,"2021, October 25",189.5 g (6.70 oz),1080p@30fps,"128GB 4GB RAM, 128GB 6GB RAM",About 230 EUR
+Oppo K9s,Oppo,Android 11,"6.59""",1080x2412 pixels,5000,Li-Po,6/8GB RAM,"2021, October 20",199 g (7.02 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 360 EUR
+Oppo A55,Oppo,Android 11,"6.51""",720x1600 pixels,5000,Li-Po,4/6GB RAM,"2021, October 01",193 g (6.81 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",€ 399.28 / $ 329.00
+Oppo F19s,Oppo,Android 11,"6.43""",1080x2400 pixels,5000,Li-Po,6GB RAM,"2021, September 27",175 g (6.17 oz),"1080p@30fps, gyro-EIS",128GB 6GB RAM,About 560 EUR
+Oppo K9 Pro,Oppo,Android 11,"6.43""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2021, September 26",180 g (6.35 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS","128GB 8GB RAM, 256GB 12GB RAM, 256GB 8GB RAM",About 350 EUR
+Oppo Reno6 Pro 5G (Snapdragon),Oppo,Android 11,"6.55""",1080x2400 pixels,4500,Li-Po,12GB RAM,"2021, September 09",188 g (6.63 oz),"4K@30/60fps, 1080p@30/60/120fps; gyro-EIS, HDR",256GB 12GB RAM,€ 145.00 / $ 365.00 / £ 138.17
+Oppo Reno6,Oppo,Android 11,"6.4""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, July 27",173 g (6.10 oz),"4K@30fps, 1080p@30/60/120fps",128GB 8GB RAM,€ 175.95 / $ 119.00 / £ 218.69
+Oppo Reno6 Z,Oppo,Android 11,"6.4""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, July 20",173 g (6.10 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 520 EUR
+Oppo A16s,Oppo,Android 11,"6.52""",720x1600 pixels,5000,Li-Po,4GB RAM,"2021, August 14",190 g (6.70 oz),1080p@30fps,64GB 4GB RAM,$ 329.00
+Oppo A16,Oppo,Android 11,"6.52""",720x1600 pixels,5000,Li-Po,3/4GB RAM,"2021, July 17",190 g (6.70 oz),1080p@30fps,"32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM, 256GB 4GB RAM",€ 309.99 / $ 273.04
+Oppo Reno6 Pro+ 5G,Oppo,Android 11,"6.55""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2021, May 27",188 g (6.63 oz),"4K@30/60fps, 1080p@30/60/120fps; gyro-EIS, HDR","128GB 8GB RAM, 256GB 12GB RAM",About 260 EUR
+Oppo Reno6 Pro 5G,Oppo,Android 11,"6.55""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2021, May 27",177 g (6.24 oz),"4K@30fps, 1080p@30/60fps; gyro-EIS, HDR","128GB 8GB RAM, 256GB 12GB RAM",About 170 EUR
+Oppo Reno6 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4300,Li-Po,8/12GB RAM,"2021, May 27",182 g (6.42 oz),"4K@30fps, 1080p@30/60fps","128GB 8GB RAM, 256GB 12GB RAM",€ 264.61 / £ 209.97
+Oppo K9,Oppo,Android 11,"6.43""",1080x2400 pixels,4300,Li-Po,8GB RAM,"2021, May 06",172 g (6.07 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 330 EUR
+Oppo A53s 5G,Oppo,Android 11,"6.52""",720x1600 pixels,5000,Li-Po,6/8GB RAM,"2021, April 27",189.6 g (6.70 oz),1080p@30fps,"128GB 6GB RAM, 128GB 8GB RAM",€ 151.90 / $ 379.00 / £ 199.00
+Oppo A95 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, April 27",173 g (6.10 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",€ 215.00 / $ 405.00
+Oppo A94 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, April 16",173 g (6.10 oz),"4K@30fps, 1080p@30fps; gyro-EIS, HDR",128GB 8GB RAM,About 300 EUR
+Oppo A35,Oppo,Android 10,"6.52""",720x1600 pixels,4230,Li-Po,4GB RAM,"2021, April 14",177 g (6.24 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM",About 220 EUR
+Oppo Reno5 Z,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, April 04",173 g (6.10 oz),"4K@30fps, 1080p@30fps, gyro-EIS",128GB 8GB RAM,"₹ 13,490"
+Oppo A54 5G,Oppo,Android 11,"6.5""",1080x2400 pixels,5000,Li-Po,4GB RAM,"2021, April 14",190 g (6.70 oz),"1080p@30fps, gyro-EIS","64GB 4GB RAM, 128GB 4GB RAM",€ 517.28 / $ 755.00 / £ 446.99
+Oppo A74 5G,Oppo,Android 11,"6.5""",1080x2400 pixels,5000,Li-Po,6/8GB RAM,"2021, April 05",190 g (6.70 oz),"1080p@30fps, gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM",About 600 EUR
+Oppo A74,Oppo,Android 11,"6.43""",1080x2400 pixels,5000,Li-Po,4-8GB RAM,"2021, April 05",175 g (6.17 oz),1080p@30fps,"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",€ 405.99 / $ 625.00 / £ 363.51
+Oppo F19,Oppo,Android 11,"6.43""",1080x2400 pixels,5000,Li-Po,6GB RAM,"2021, April 01",175 g (6.17 oz),1080p@30fps,128GB 6GB RAM,€ 255.00 / $ 139.46 / £ 241.11
+Oppo A54,Oppo,Android 10,"6.51""",720x1600 pixels,5000,Li-Po,4/6GB RAM,"2021, March 26",192 g (6.77 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM","₹ 25,990"
+Oppo Find X3 Pro,Oppo,Android 11,"6.7""",1440x3216 pixels,4500,Li-Po,8-16GB RAM,"2021, March 11",193 g (6.81 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video","256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",About 250 EUR
+Oppo Find X3,Oppo,Android 11,"6.7""",1440x3216 pixels,4500,Li-Po,8GB RAM,"2021, March 11",193 g (6.81 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video","128GB 8GB RAM, 256GB 8GB RAM",About 300 EUR
+Oppo Find X3 Neo,Oppo,Android 11,"6.55""",1080x2400 pixels,4500,Li-Po,12GB RAM,"2021, March 11",184 g (6.49 oz),"4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR","128GB 12GB RAM, 256GB 12GB RAM",€ 275.00 / $ 299.99
+Oppo Find X3 Lite,Oppo,Android 11,"6.43""",1080x2400 pixels,4300,Li-Po,8GB RAM,"2021, March 11",172 g or 180 g (6.07 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, HDR",128GB 8GB RAM,About 250 EUR
+Oppo F19 Pro+ 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, March 08",173 g (6.10 oz),"4K@30fps, 1080p@30/120fps; gyro-EIS, HDR",128GB 8GB RAM,About 370 EUR
+Oppo F19 Pro,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, March 08",172 g (6.07 oz),"4K@30fps, 1080p@30/120fps; gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 200 EUR
+Oppo Reno5 Lite,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, March 23",172 g (6.07 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS",128GB 8GB RAM,About 260 EUR
+Oppo A94,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, March 05",172 g (6.07 oz),"4K@30fps, 1080p@30/120fps; gyro-EIS",128GB 8GB RAM,About 260 EUR
+Oppo Reno5 F,Oppo,Android 11,"6.43""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2021, March 17",172 g (6.07 oz),"4K@30fps, 1080p@30/120fps; gyro-EIS",128GB 8GB RAM,About 130 EUR
+Oppo Reno5 K,Oppo,Android 11,"6.43""",1080x2400 pixels,4300,Li-Po,8/12GB RAM,"2021, February 25",172 g or 180 g (6.07 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS","128GB 8GB RAM, 256GB 12GB RAM",About 310 EUR
+Oppo A55 5G,Oppo,Android 11,"6.5""",720x1600 pixels,5000,Li-Po,4-8GB RAM,"2021, January 25",186 g (6.56 oz),1080p@30fps,"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",About 500 EUR
+Oppo A93s 5G,Oppo,Android 11,"6.5""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2021, July 26",188 g (6.63 oz),"1080p@30fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 160 EUR
+Oppo A93 5G,Oppo,Android 11,"6.5""",1080x2400 pixels,5000,Li-Po,8GB RAM,"2021, January 14",188 g (6.63 oz),"1080p@30fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 410 EUR
+Oppo A15s,Oppo,Android 10,"6.52""",720x1600 pixels,4230,Li-Po,4GB RAM,"2020, December 18",177 g (6.24 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM",€ 299.00 / $ 595.00 / £ 419.00
+Oppo Reno5 4G,Oppo,Android 11,"6.4""",1080x2400 pixels,4310,Li-Po,8GB RAM,"2020, December 31",171 g (6.03 oz),"4K@30fps, 1080p@30/60/120/480fps, 720p@960fps; gyro-EIS, HDR",128GB 8GB RAM,About 240 EUR
+Oppo Reno5 Pro+ 5G,Oppo,Android 11,"6.55""",1080x2400 pixels,4500,Li-Po,8/12GB RAM,"2020, December 24",184 g (6.49 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS, HDR","128GB 8GB RAM, 256GB 12GB RAM",About 250 EUR
+Oppo A53 5G,Oppo,Android 10,"6.5""",1080x2400 pixels,4040,Li-Po,4-8GB RAM,"2020, December 18",175 g (6.17 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",€ 169.00 / $ 445.00 / £ 198.99
+Oppo Reno5 Pro 5G,Oppo,Android 11,"6.55""",1080x2400 pixels,4350,Li-Po,8/12GB RAM,"2020, December 10",173 g (6.10 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, HDR","128GB 8GB RAM, 256GB 12GB RAM",$ 529.00
+Oppo Reno5 5G,Oppo,Android 11,"6.43""",1080x2400 pixels,4300,Li-Po,8/12GB RAM,"2020, December 10",172 g or 180 g (6.07 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, HDR","128GB 8GB RAM, 256GB 12GB RAM",About 280 EUR
+Oppo A73 5G,Oppo,Android 10,"6.5""",1080x2400 pixels,4040,Li-Po,8GB RAM,"2020, November 4",177 g (6.24 oz),"1080p@30fps, gyro-EIS",128GB 8GB RAM,About 260 EUR
+Oppo Reno4 F,Oppo,Android 10,"6.43""",1080x2400 pixels,4000,Li-Po,8GB RAM,"2020, October 10",164 g (5.78 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS",128GB 8GB RAM,About 370 EUR
+Oppo A15,Oppo,Android 10,"6.52""",720x1600 pixels,4230,Li-Po,2/3GB RAM,"2020, October 15",175 g (6.17 oz),1080p@30fps,"32GB 2GB RAM, 32GB 3GB RAM",About 130 EUR
+Oppo A53s,Oppo,Android 10,"6.5""",720x1600 pixels,5000,Li-Po,4GB RAM,"2020, October 12",186 g (6.56 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM",About 320 EUR
+Oppo A73,Oppo,Android 10,"6.44""",1080x2400 pixels,4015,Li-Po,4/6GB RAM,"2020, October 05",163 g (5.75 oz),"1080p@30fps, gyro-EIS","128GB 4GB RAM, 128GB 6GB RAM",About 270 EUR
+Oppo A93,Oppo,Android 10,"6.43""",1080x2400 pixels,4000,Li-Po,8GB RAM,"2020, October 01",164 g (5.78 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS",128GB 8GB RAM,About 200 EUR
+Oppo Reno4 Z 5G,Oppo,Android 10,"6.57""",1080x2400 pixels,4000,Li-Po,8GB RAM,"2020, September 29",184 g (6.49 oz),"4K@30fps, 1080p@30fps, gyro-EIS",128GB 8GB RAM,About 150 EUR
+Oppo Reno4 Lite,Oppo,Android 10,"6.43""",1080x2400 pixels,4015,Li-Po,8GB RAM,"2020, September 28",164 g (5.78 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS",128GB 8GB RAM,€ 168.92 / $ 264.99 / £ 299.00
+Oppo A33 (2020),Oppo,Android 10,"6.5""",720x1600 pixels,5000,Li-Po,3/4GB RAM,"2020, September 28",186 g (6.56 oz),1080p@30fps,"32GB 3GB RAM, 32GB 4GB RAM",About 190 EUR
+Oppo Reno4 SE,Oppo,Android 10,"6.43""",1080x2400 pixels,4300,Li-Po,8GB RAM,"2020, September 21",169 g (5.96 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 390 EUR
+Oppo F17 Pro,Oppo,Android 10,"6.43""",1080x2400 pixels,4015,Li-Po,8GB RAM,"2020, September 02",164 g (5.78 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS",128GB 8GB RAM,About 330 EUR
+Oppo F17,Oppo,Android 10,"6.44""",1080x2400 pixels,4015,Li-Po,4-8GB RAM,"2020, September 02",163 g (5.75 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",About 230 EUR
+Oppo A32,Oppo,Android 10,"6.5""",720x1600 pixels,5000,Li-Po,4/8GB RAM,"2020, September 10",186 g (6.56 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM",About 120 EUR
+Oppo A53,Oppo,Android 10,"6.5""",720x1600 pixels,5000,Li-Po,4/6GB RAM,"2020, August 20",186 g (6.56 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",About 1000 EUR
+Oppo K7x,Oppo,Android 10,"6.5""",1080x2400 pixels,5000,Li-Po,6/8GB RAM,"2020, November 04",194 g (6.84 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",€ 349.00 / $ 555.00 / £ 229.99
+Oppo Reno4 Pro,Oppo,Android 10,"6.5""",1080x2400 pixels,4000,Li-Po,8GB RAM,"2020, July 31",161 g (5.68 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM",About 250 EUR
+Oppo Reno4,Oppo,Android 10,"6.4""",1080x2400 pixels,4015,Li-Po,8GB RAM,"2020, July 29",165 g (5.82 oz),"4K@30fps, 1080p@30/60fps, gyro-EIS",128GB 8GB RAM,€ 355.00 / $ 689.00 / £ 389.00
+Oppo A72 5G,Oppo,Android 10,"6.5""",1080x2400 pixels,4040,Li-Po,4-8GB RAM,"2020, July 27",175 g (6.17 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",About 290 EUR
+Oppo A12s,Oppo,Android 9.0,"6.2""",720x1520 pixels,4230,Li-Po,3GB RAM,"2020, July 14",165 g (5.82 oz),1080p@30fps,32GB 3GB RAM,About 270 EUR
+Oppo Reno4 Pro 5G,Oppo,Android 10,"6.55""",1080x2400 pixels,4000,Li-Po,8/12GB RAM,"2020, June 05",172 g (6.07 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, OIS, HDR","128GB 8GB RAM, 256GB 12GB RAM",About 240 EUR
+Oppo Reno4 5G,Oppo,Android 10,"6.43""",1080x2400 pixels,4000,Li-Po,8GB RAM,"2020, June 05",183 g (6.46 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, HDR","128GB 8GB RAM, 256GB 8GB RAM",About 100 EUR
+Oppo A92,Oppo,Android 10,"6.5""",1080x2400 pixels,5000,Li-Po,6/8GB RAM,"2020, May 04",192 g (6.77 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM",$ 535.00
+Oppo Find X2 Neo,Oppo,Android 10,"6.5""",1080x2400 pixels,4025,Li-Po,12GB RAM,"2020, April 15",171 g (6.03 oz),"4K@30fps, 1080p@30/60fps; gyro-EIS, OIS",256GB 12GB RAM,About 240 EUR
+Oppo A92s,Oppo,Android 10,"6.57""",1080x2400 pixels,4000,Li-Po,6/8GB RAM,"2020, April 20",184 g (6.49 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",€ 230.00 / $ 231.60
+Oppo A72,Oppo,Android 10,"6.5""",1080x2400 pixels,5000,Li-Po,4/8GB RAM,"2020, April 21",192 g (6.77 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","128GB 4GB RAM, 128GB 8GB RAM",About 520 EUR
+Oppo A52,Oppo,Android 10,"6.5""",1080x2400 pixels,5000,Li-Po,4-8GB RAM,"2020, April 20",192 g (6.77 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",About 120 EUR
+Oppo A11k,Oppo,Android 9.0,"6.22""",720x1520 pixels,4230,Li-Po,2GB RAM,"2020, June 22",165 g (5.82 oz),1080p@30fps,32GB 2GB RAM,About 440 EUR
+Oppo A12,Oppo,Android 9.0,"6.22""",720x1520 pixels,4230,Li-Po,3/4GB RAM,"2020, April 20",165 g (5.82 oz),1080p@30fps,"32GB 3GB RAM, 64GB 4GB RAM","€ 469.00 / $ 1,051.22 / £ 520.99"
+Oppo K7 5G,Oppo,Android 10,"6.4""",1080x2400 pixels,4025,Li-Po,8GB RAM,"2020, August 04",180 g (6.35 oz),"4K@30fps, 1080p@30/60fps; gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM","$ 1,349.00"
+Oppo Find X2 Lite,Oppo,Android 10,"6.4""",1080x2400 pixels,4025,Li-Po,8GB RAM,"2020, April 20",180 g (6.35 oz),"4K@30fps, 1080p@30/60fps; gyro-EIS",128GB 8GB RAM,About 540 EUR
+Oppo Ace2,Oppo,Android 10,"6.55""",1080x2400 pixels,4000,Li-Po,8/12GB RAM,"2020, April 13",186 g (6.56 oz),"4K@30/60fps, 1080p@30/60/240fps; gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",$ 156.80
+Oppo A12e,Oppo,Android 8.1,"6.2""",720x1520 pixels,4230,Li-Ion,3GB RAM,"2020, April 03",168 g (5.93 oz),1080p@30fps,64GB 3GB RAM,"₹ 18,989"
+Oppo Reno3,Oppo,Android 10,"6.4""",1080x2400 pixels,4025,Li-Po,8GB RAM,"2020, March 17",170 g (6.00 oz),"4K@30fps, 1080p@30/60fps; gyro-EIS",128GB 8GB RAM,About 430 EUR
+Oppo Find X2 Pro,Oppo,Android 10,"6.7""",1440x3168 pixels,4260,Li-Po,12GB RAM,"2020, March 06",217 g (Ceramic) / 200 g (Leather) (7.05 oz),"4K@30/60fps, 1080p@30/60fps; gyro-EIS; HDR","256GB 12GB RAM, 512GB 12GB RAM",About 400 EUR
+Oppo Find X2,Oppo,Android 10,"6.7""",1440x3168 pixels,4200,Li-Po,8/12GB RAM,"2020, March 06",209 g (Ceramic) / 192 g (Glass) (6.77 oz),"4K@30/60fps, 1080p@30/60fps; gyro-EIS; HDR","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 440 EUR
+Oppo Reno3 Pro,Oppo,Android 10,"6.4""",1080x2400 pixels,4025,Li-Po,8/12GB RAM,"2020, March 02",175 g (6.17 oz),"4K@30fps, 1080p@30fps; gyro-EIS","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 200 EUR
+Oppo A31,Oppo,Android 9.0,"6.5""",720x1600 pixels,4230,Li-Po,4/6GB RAM,"2020, February 13",180 g (6.35 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",About 150 EUR
+Oppo F15,Oppo,Android 9.0,"6.4""",1080x2400 pixels,4025,Li-Po,4/8GB RAM,"2020, January 16",172 g (6.07 oz),"1080p@30fps, gyro-EIS","128GB 4GB RAM, 128GB 8GB RAM",About 200 EUR
+Oppo Reno3 Pro 5G,Oppo,Android 10,"6.5""",1080x2400 pixels,4025,Li-Po,8/12GB RAM,"2019, December",171 g (6.03 oz),"4K@30fps, 1080p@30/60/120/240fps; gyro-EIS, OIS","128GB 8GB RAM, 256GB 12GB RAM",About 240 EUR
+Oppo Reno3 Youth,Oppo,Android 10,"6.4""",1080x2400 pixels,4025,Li-Po,8GB RAM,"2020, February 08",180 g (6.35 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, OIS",128GB 8GB RAM,About 380 EUR
+Oppo Reno3 5G,Oppo,Android 10,"6.4""",1080x2400 pixels,4025,Li-Po,8/12GB RAM,"2019, December",181 g (6.38 oz),"4K@30fps, 1080p@30/60/120fps; gyro-EIS, OIS","128GB 8GB RAM, 128GB 12GB RAM",About 280 EUR
+Oppo A91,Oppo,Android 9.0,"6.4""",1080x2400 pixels,4025,Li-Po,4/8GB RAM,"2019, December 20",172 g (6.07 oz),"1080p@30fps, gyro-EIS","128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 170 EUR
+Oppo A8,Oppo,Android 9.0,"6.5""",720x1600 pixels,4230,Li-Po,4GB RAM,"2019, December",180 g (6.35 oz),1080p@30fps,"128GB 4GB RAM, 64GB 4GB RAM",About 150 EUR
+Oppo A11,Oppo,Android 9.0,"6.5""",720x1600 pixels,5000,Li-Po,4/6GB RAM,"2019, October",195 g (6.88 oz),"4K@30fps, 1080p@30fps, gyro-EIS","64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 6GB RAM",About 500 EUR
+Oppo K5,Oppo,Android 9.0,"6.4""",1080x2340 pixels,4000,Li-Po,6/8GB RAM,"2019, October",182 g (6.42 oz),"4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 340 EUR
+Oppo Reno Ace,Oppo,Android 9.0,"6.5""",1080x2400 pixels,4000,Li-Po,8/12GB RAM,"2019, October",200 g (7.05 oz),"4K@30/60fps, 1080p@30/60/120/240fps; (gyro-EIS); video rec. only with main camera","128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 330 EUR
+Oppo Reno A,Oppo,Android 9.0,"6.4""",1080x2340 pixels,3600,Li-Po,6GB RAM,"2019, September",169.5 g (6.00 oz),"4K@30fps, 1080p@30fps",128GB 6GB RAM,About 330 EUR
+Oppo A5 (2020),Oppo,Android 9.0,"6.5""",720x1600 pixels,5000,Li-Po,3/4GB RAM,"2019, September 21",195 g (6.88 oz),"4K@30fps, 1080p@30fps, gyro-EIS","32GB 4GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",About 210 EUR
+Oppo A9 (2020),Oppo,Android 9.0,"6.5""",720x1600 pixels,5000,Li-Po,4/8GB RAM,"2019, September 10",195 g (6.88 oz),"4K@30fps, 1080p@30fps, gyro-EIS","128GB 4GB RAM, 128GB 8GB RAM",About 260 EUR
+Oppo Reno2,Oppo,Android 9.0,"6.5""",1080x2400 pixels,4000,Li-Po,8GB RAM,"2019, August 28",189 g (6.67 oz),"4K@30fps, 1080p@30/60fps (gyro-EIS); video rec. only with main camera","128GB 8GB RAM, 256GB 8GB RAM",About 270 EUR
+Oppo Reno2 F,Oppo,Android 9.0,"6.5""",1080x2340 pixels,4000,Li-Po,6/8GB RAM,"2019, August 28",195 g (6.88 oz),"1080p@30fps, gyro-EIS; video rec. only with main camera","128GB 8GB RAM, 256GB 6GB RAM",About 880 EUR
+Oppo Reno2 Z,Oppo,Android 9.0,"6.53""",1080x2340 pixels,4000,Li-Po,8GB RAM,"2019, August 28",195 g (6.88 oz),"4K@30fps, 1080p@30fps (gyro-EIS)","128GB 8GB RAM, 256GB 8GB RAM",About 1020 EUR
+Oppo Reno Z,Oppo,Android 9.0,"6.4""",1080x2340 pixels,4035,Li-Po,4-8GB RAM,"2019, May",186 g (6.56 oz),"4K@30fps, 1080p@30/60/120fps (gyro-EIS)","128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM",About 470 EUR
+Oppo K3,Oppo,Android 9.0,"6.5""",1080x2340 pixels,3765,Li-Po,6/8GB RAM,"2019, May",191 g (6.74 oz),"4K@30fps, 1080p@30/120fps, gyro-EIS","64GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",About 100 EUR
+Oppo A9x,Oppo,Android 9.0,"6.53""",1080x2340 pixels,4020,Li-Po,6GB RAM,"2019, May",190 g (6.70 oz),1080p@30fps,128GB 6GB RAM,About 200 EUR
+Oppo A9,Oppo,Android 9.0,"6.53""",1080x2340 pixels,4020,Li-Po,4-8GB RAM,"2019, April",190 g (6.70 oz),1080p@30fps,"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",About 250 EUR
+Oppo Reno 5G,Oppo,Android 9.0,"6.6""",1080x2340 pixels,4065,Li-Po,8GB RAM,"2019, April",215 g (7.58 oz),"4K@30/60fps, 1080p@30/60/240fps, gyro-EIS; video rec. only with main camera",256GB 8GB RAM,About 320 EUR
+Oppo Reno 10x zoom,Oppo,Android 9.0,"6.6""",1080x2340 pixels,4065,Li-Po,6-12GB RAM,"2019, April",210 g (7.41 oz),"4K@30/60fps, 1080p@30/60/240fps, gyro-EIS; video rec. only with main camera","128GB 6GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",About 270 EUR
+Oppo Reno,Oppo,Android 9.0,"6.4""",1080x2340 pixels,3765,Li-Po,6/8GB RAM,"2019, April",185 g (6.53 oz),"4K@30fps, 1080p@30/60/120fps, gyro-EIS","128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",About 350 EUR
+Oppo A1k,Oppo,Android 9.0,"6.1""",720x1560 pixels,4000,Li-Po,2/3GB RAM,"2019, April",170 g (6.00 oz),1080p@30fps,"32GB 2GB RAM, 32GB 3GB RAM",About 330 EUR
+Oppo A7n,Oppo,Android 8.1,"6.2""",720x1520 pixels,4230,Li-Ion,4GB RAM,"2019, April",170 g (6.00 oz),1080p@30fps,64GB 4GB RAM,About 210 EUR
+Oppo A5s (AX5s),Oppo,Android 8.1,"6.2""",720x1520 pixels,4230,Li-Ion,2-4GB RAM,"2019, March 18",170 g (6.00 oz),1080p@30fps,"32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",About 270 EUR
+Oppo F11,Oppo,Android 9.0,"6.53""",1080x2340 pixels,4020,Li-Po,4/6GB RAM,"2019, March",188 g (6.63 oz),1080p@30fps,"64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",About 600 EUR
+Oppo F11 Pro,Oppo,Android 9.0,"6.53""",1080x2340 pixels,4000,Li-Po,4/6GB RAM,"2019, March",190 g (6.70 oz),1080p@30fps,"64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM",About 460 EUR
+Oppo A7,Oppo,Android 8.1,"6.2""",720x1520 pixels,4230,Li-Ion,3/4GB RAM,"2018, November",168 g (5.93 oz),1080p@30fps,"32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",About 290 EUR
+Oppo R15x,Oppo,Android 8.1,"6.4""",1080x2340 pixels,3600,Li-Ion,6GB RAM,"2018, October",156 g (5.50 oz),"4K@30fps, 1080p@30fps",128GB 6GB RAM,About 11000 INR
+Oppo RX17 Neo,Oppo,Android 8.1,"6.41""",1080x2340 pixels,3600,Li-Ion,4GB RAM,"2018, November",156 g (5.50 oz),1080p@30fps,128GB 4GB RAM,About 230 EUR
+Oppo K1,Oppo,Android 8.1,"6.4""",1080x2340 pixels,3600,Li-Ion,4/6GB RAM,"2018, October",156 g (5.50 oz),"4K@30fps, 1080p@30fps","64GB 4GB RAM, 64GB 6GB RAM",About 1350 EUR
+Oppo A7x,Oppo,Android 8.1,"6.3""",1080x2340 pixels,3500,Li-Po,4GB RAM,"2018, September",169 g (5.96 oz),1080p@30fps,"64GB 4GB RAM, 128GB 4GB RAM",About 250 EUR
+Oppo RX17 Pro,Oppo,Android 8.1,"6.4""",1080x2340 pixels,3700,Li-Po,6/8GB RAM,"2018, August",183 g (6.46 oz),"4K@30fps, 1080p@30fps","128GB 6GB RAM, 128GB 8GB RAM",About 330 EUR
+Oppo R17,Oppo,Android 8.1,"6.4""",1080x2340 pixels,3500,Li-Po,6/8GB RAM,"2018, August",182 g (6.42 oz),"4K@30fps, 1080p@30fps","128GB 6GB RAM, 128GB 8GB RAM",About 270 EUR
+Oppo F9 (F9 Pro),Oppo,Android 8.1,"6.3""",1080x2340 pixels,3500,Li-Po,4/6GB RAM,"2018, August",169 g (5.96 oz),1080p@30fps,"64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM",About 510 EUR
+Oppo A3s,Oppo,Android 8.1,"6.2""",720x1520 pixels,4230,Li-Ion,2-4GB RAM,"2018, July 13",168 g (5.93 oz),1080p@30fps,"16GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",About 460 EUR
+Oppo A5 (AX5),Oppo,Android 8.1,"6.2""",720x1520 pixels,4230,Li-Ion,3/4GB RAM,"2018, July",168 g (5.93 oz),1080p@30fps,"32GB 3GB RAM, 32GB 4GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",About 150 EUR
+Oppo Find X Lamborghini,Oppo,Android 8.1,"6.42""",1080x2340 pixels,3400,Li-Ion,8GB RAM,"2018, June",186 g (6.56 oz),"4K@30fps, 1080p@240fps, 720p@480fps",512GB 8GB RAM,About 130 EUR
+Oppo F7 Youth,Oppo,Android 8.1,"6.0""",1080x2160 pixels,3410,Li-Ion,4GB RAM,"2018, May",155 g (5.47 oz),1080p@30fps,64GB 4GB RAM,About 200 EUR
+Oppo A3,Oppo,Android 8.1,"6.2""",1080x2280 pixels,3400,Li-Ion,4GB RAM,"2018, April",159 g (5.61 oz),1080p@30fps,128GB 4GB RAM,About 280 EUR
+Oppo F7,Oppo,Android 8.1,"6.23""",1080x2280 pixels,3400,Li-Ion,4/6GB RAM,"2018, March",158 g (5.57 oz),1080p@30fps,"64GB 4GB RAM, 128GB 6GB RAM",About 580 EUR
+Oppo R15 Pro,Oppo,Android 8.1,"6.28""",1080x2280 pixels,3430,Li-Po,6GB RAM,"2018, March",180 g (6.35 oz),"4K@30fps, 1080p@60/120fps, 720p@240fps",128GB 6GB RAM,About 320 EUR
+Oppo R15,Oppo,Android 8.1,"6.28""",1080x2280 pixels,3450,Li-Po,4-8GB RAM,"2018, March",175 g (6.17 oz),"4K@30fps, 1080p@30fps","128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",About 450 EUR
+Oppo A1 (2018),Oppo,Android 7.1.1,"5.7""",720x1440 pixels,3180,Li-Ion,3/4GB RAM,"2018, March",143 g (5.04 oz),1080p@30fps,"32GB 3GB RAM, 64GB 4GB RAM",About 180 EUR
+Oppo A71 (2018),Oppo,Android 7.1,"5.2""",720x1280 pixels,3000,Li-Ion,2/3GB RAM,"2018, February",137 g (4.83 oz),1080p@30fps,"16GB 2GB RAM, 16GB 3GB RAM",About 280 EUR
+Oppo A83,Oppo,Android 7.1,"5.7""",720x1440 pixels,3180,Li-Ion,2-4GB RAM,"2018, January",143 g (5.04 oz),1080p@30fps,"16GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM",About 500 EUR
+Oppo F5 Youth,Oppo,Android 7.1,"6.0""",1080x2160 pixels,3200,Li-Ion,3/4GB RAM,"2017, November",152 g (5.36 oz),1080p@30fps,"32GB 3GB RAM, 32GB 4GB RAM",About 400 EUR
+Oppo R11s Plus,Oppo,Android 7.1.1,"6.43""",1080x2160 pixels,4000,Li-Po,6GB RAM,"2017, November",182 g (6.42 oz),"4K@30fps, 1080p@30fps",64GB 6GB RAM,About 310 EUR
+Oppo F5,Oppo,Android 7.1.1,"6.0""",1080x2160 pixels,3200,Li-Ion,4/6GB RAM,"2017, October",152 g (5.36 oz),1080p@30fps,"32GB 4GB RAM, 64GB 6GB RAM",About 150 EUR
+Oppo R11s,Oppo,Android 7.1.1,"6.01""",1080x2160 pixels,3200,Li-Po,4GB RAM,"2017, October",153 g (5.40 oz),"4K@30fps, 1080p@30fps",64GB 4GB RAM,About 260 EUR
+Oppo A71,Oppo,Android 7.1,"5.2""",720x1280 pixels,3000,Li-Ion,3GB RAM,"2017, September",137 g (4.83 oz),1080p@30fps,16GB 3GB RAM,About 480 EUR
+Oppo A77 (2017),Oppo,Android 7.1,"5.5""",1080x1920 pixels,3200,Li-Ion,4GB RAM,"2017, July",148 g (5.22 oz),1080p@30fps,64GB 4GB RAM,About 250 EUR
+Oppo R11 Plus,Oppo,Android 7.1.1,"6.0""",1080x1920 pixels,4000,Li-Po,6GB RAM,"2017, June",188 g (6.63 oz),"4K@30fps, 1080p@30fps",64GB 6GB RAM,About 250 EUR
+Oppo R11,Oppo,Android 7.1.1,"5.5""",1080x1920 pixels,3000,Li-Po,4/6GB RAM,"2017, June",150 g (5.29 oz),"4K@30fps, 1080p@30fps","64GB 4GB RAM, 128GB 6GB RAM",About 250 EUR
+Oppo A77 (Mediatek),Oppo,Android 6,"5.5""",1080x1920 pixels,3200,Li-Ion,4GB RAM,"2017, May",153 g (5.40 oz),1080p@30fps,64GB 4GB RAM,About 250 EUR
+Oppo A39,Oppo,Android 5.1,"5.2""",720x1280 pixels,2900,Li-Ion,3GB RAM,"2017, March",147 g (5.19 oz),1080p@30fps,32GB 3GB RAM,About 250 EUR
+Oppo F3,Oppo,Android 6,"5.5""",1080x1920 pixels,3200,Li-Ion,4GB RAM,"2017, May",153 g (5.40 oz),1080p@30fps,64GB 4GB RAM,About 250 EUR
+Oppo F3 Plus,Oppo,Android 6,"6.0""",1080x1920 pixels,4000,Li-Ion,4/6GB RAM,"2017, March",185 g (6.53 oz),"4K@30fps, 1080p@30fps","64GB 4GB RAM, 64GB 6GB RAM",About 250 EUR
